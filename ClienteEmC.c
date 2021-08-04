@@ -9,7 +9,8 @@
  * Compilar para a placa: ${CC} ClienteEmC.c -o  ClienteEmC
  * Uso:        ./ClienteEmC Endereco_IP_ou_nome_do_servidor porta_do_servidor
  *
- * Autor e N° USP:      *******************
+ * Autor e N° USP:      Felipe Ferreira Costa 10308885
+ Bruno Moneda Alberto dos Santos 10351780
  *
  */
 
