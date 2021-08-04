@@ -1,5 +1,6 @@
 '''
 Nome e N°USP:
+Felipe Ferreira Costa: 10308885
 
 Aplicação servidora que conecta com o cliente na placa e troca mensagens
 '''
