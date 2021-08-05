@@ -2,6 +2,7 @@
 Nome e N°USP:
 Felipe Ferreira Costa: 10308885
 Bruno Moneda Alberto dos Santos 10351780
+Vinicius Pereira Canal 10308912
 
 Aplicação servidora que conecta com o cliente na placa e troca mensagens
 '''
